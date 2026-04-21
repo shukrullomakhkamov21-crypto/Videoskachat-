@@ -7,7 +7,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQu
 from yt_dlp import YoutubeDL
 
 # BU YERGA O'Z TOKENINGNI YOZ
-API_TOKEN = 'TOKENINGNI_SHU_YERGA_YOZ'
+API_TOKEN = '8617193944:AAHKTyrVweAd2uyYK78aZj-wzAll6plkIu8'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
