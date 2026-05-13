@@ -1,4 +1,4 @@
-aiogram
-requests
-google-generativeai
-
+aiogram==2.25.1
+apscheduler
+pandas
+openpyxl
