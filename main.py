@@ -7,7 +7,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # --- SOZLAMALAR h---
-API_TOKEN = '8070963688:AAHdfx56F0syWuE5txVIVOPUWZHpi7DPwrQ'
+API_TOKEN = '8750077178:AAHUb6KsA8DO6_FennS0mNYdxYwC8CiXSLU'
 SUPER_ADMIN_ID = 8213426436  # O'zingizning ID raqamingiz
 logging.basicConfig(level=logging.INFO)
 
